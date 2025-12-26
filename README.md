@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi 👋 I'm Chandan  
 
-<!--
-**Chandan1952/Chandan1952** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack JavaScript Developer  
+💻 Building real-world web applications  
+🌱 Currently improving system design & backend skills  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Node.js, Express
+- **Database:** MongoDB
+- **Tools:** Git, GitHub, Postman
+
+---
+
+## 📌 Featured Projects
+🔹 **Electro-Portal** – E-commerce web application  
+🔹 **Social-Brew** – Social media platform  
+🔹 **Shopping-Portal** – Online shopping system  
+🔹 **Car-Rental-Portal** – Vehicle booking system  
+
+> More projects available below 👇
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/Chandan1952
