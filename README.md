@@ -22,18 +22,7 @@
 
 ### 🚀 About Me
 
-```python
-class Chandan:
-    def __init__(self):
-        self.role = "Full Stack JavaScript Developer"
-        self.focus = "Building real-world web applications"
-        self.currently = "Improving system design & backend architecture"
-        self.location = "India"
-        self.open_for = ["Freelance", "Full-time opportunities", "Collaborations"]
-    
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something amazing together 🚀")
-```
+
 
 <table width="100%">
   <tr>
